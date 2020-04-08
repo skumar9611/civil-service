@@ -1,0 +1,28 @@
+{
+  "complain_test_data": {
+    "name":  "test-1",
+    "contact":  "9999999999",
+    "age":  "25",
+    "email": "asldnajsdn@gmail.com",
+    "occupation":  "cleaner",
+    "current_location": "Bangalore",
+    "complain_type":  "something something",
+    "complaint_to": "CEO",
+    "complaint_subject":  "Cleaning 3rd road",
+    "complaint_details": "Very dirty roads at st. 3",
+    "date": "12/12/12"
+  },
+  "suggestion_test_data": {
+    "name":  "test-1",
+    "contact":  "9999999999",
+    "age":  "25",
+    "email": "asldnajsdn@gmail.com",
+    "occupation":  "cleaner",
+    "suggestion_location": "Bangalore",
+    "suggestion_type":  "something something",
+    "suggestion_to": "CEO",
+    "suggestion_subject":  "Cleaning 3rd road",
+    "suggestion_details": "Very dirty roads at st. 3",
+    "date": "12/12/12"
+  }
+}

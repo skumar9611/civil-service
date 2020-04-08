@@ -1,0 +1,12 @@
+{
+  "log_file": "csm.log",
+  "aws_access_key_id": "AKIA4VNTYMAM6UCBXJ2F",
+  "aws_secret_access_key": "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",
+  "bucket_name": "civil-service",
+  "bucket_location": "us-west-2",
+  "mysql_host": "localhost",
+  "mysql_user": "root",
+  "mysql_database": "csm",
+  "port": 8085,
+  "debug": false
+}

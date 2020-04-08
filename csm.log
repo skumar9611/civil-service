@@ -1,0 +1,2039 @@
+2020-04-08 13:54:26,877 INFO Connecting to MySQL..
+2020-04-08 13:54:26,879 INFO Database connection successful
+2020-04-08 13:54:26,880 INFO Creating cursor for communication..
+2020-04-08 13:54:26,880 DEBUG Checking and creating 'csm' database..
+2020-04-08 13:54:26,880 INFO Connecting to MySQL with csm database..
+2020-04-08 13:54:26,881 INFO Connection successful
+2020-04-08 13:54:26,881 INFO Creating cursor for communication with csm database..
+2020-04-08 13:54:26,881 INFO Cursor ready and awaiting commands.....
+2020-04-08 13:54:42,953 INFO Connecting to MySQL..
+2020-04-08 13:54:42,954 INFO Database connection successful
+2020-04-08 13:54:42,954 INFO Creating cursor for communication..
+2020-04-08 13:54:42,954 DEBUG Checking and creating 'csm' database..
+2020-04-08 13:58:41,467 INFO Connecting to MySQL..
+2020-04-08 13:58:41,469 INFO Database connection successful
+2020-04-08 13:58:41,469 INFO Creating cursor for communication..
+2020-04-08 13:58:41,470 DEBUG Checking and creating 'csm' database..
+2020-04-08 13:59:01,801 INFO Connecting to MySQL..
+2020-04-08 13:59:01,803 INFO Database connection successful
+2020-04-08 13:59:01,803 INFO Creating cursor for communication..
+2020-04-08 14:00:39,845 INFO Connecting to MySQL..
+2020-04-08 14:00:39,847 INFO Database connection successful
+2020-04-08 14:00:39,847 INFO Creating cursor for communication..
+2020-04-08 14:01:16,333 INFO Connecting to MySQL..
+2020-04-08 14:01:16,335 INFO Database connection successful
+2020-04-08 14:01:16,335 INFO Creating cursor for communication..
+2020-04-08 14:01:41,038 INFO Connecting to MySQL..
+2020-04-08 14:01:41,040 INFO Database connection successful
+2020-04-08 14:01:41,040 INFO Creating cursor for communication..
+2020-04-08 14:03:23,062 INFO Connecting to MySQL..
+2020-04-08 14:03:23,065 INFO Database connection successful
+2020-04-08 14:03:23,065 INFO Creating cursor for communication..
+2020-04-08 14:03:50,710 INFO Connecting to MySQL..
+2020-04-08 14:03:50,712 INFO Database connection successful
+2020-04-08 14:03:50,712 INFO Creating cursor for communication..
+2020-04-08 14:05:34,732 INFO Connecting to MySQL..
+2020-04-08 14:05:34,734 INFO Database connection successful
+2020-04-08 14:05:34,734 INFO Creating cursor for communication..
+2020-04-08 14:37:00,234 INFO Connecting to MySQL..
+2020-04-08 14:37:00,236 INFO Database connection successful
+2020-04-08 14:37:00,236 INFO Creating cursor for communication..
+2020-04-08 14:37:00,236 INFO Connecting to MySQL with csm database..
+2020-04-08 14:37:00,237 INFO Creating cursor for communication with csm database..
+2020-04-08 14:37:00,237 INFO Cursor ready and awaiting commands.....
+2020-04-08 14:44:40,734 INFO Connecting to MySQL..
+2020-04-08 14:44:40,736 INFO Database connection successful
+2020-04-08 14:44:40,736 INFO Creating cursor for communication..
+2020-04-08 14:44:40,737 INFO Connecting to MySQL with csm database..
+2020-04-08 14:44:40,737 INFO Creating cursor for communication with csm database..
+2020-04-08 14:44:40,737 INFO Cursor ready and awaiting commands.....
+2020-04-08 14:46:56,495 INFO Connecting to MySQL..
+2020-04-08 14:46:56,497 INFO Database connection successful
+2020-04-08 14:46:56,497 INFO Creating cursor for communication..
+2020-04-08 14:46:56,497 INFO Connecting to MySQL with csm database..
+2020-04-08 14:46:56,498 INFO Creating cursor for communication with csm database..
+2020-04-08 14:46:56,498 INFO Cursor ready and awaiting commands.....
+2020-04-08 14:59:16,127 INFO Connecting to MySQL..
+2020-04-08 14:59:16,129 INFO Database connection successful
+2020-04-08 14:59:16,129 INFO Creating cursor for communication..
+2020-04-08 14:59:16,130 INFO Connecting to MySQL with csm database..
+2020-04-08 14:59:16,133 INFO Creating cursor for communication with csm database..
+2020-04-08 14:59:16,133 INFO Cursor ready and awaiting commands.....
+2020-04-08 14:59:50,712 INFO Connecting to MySQL..
+2020-04-08 14:59:50,716 INFO Database connection successful
+2020-04-08 14:59:50,716 INFO Creating cursor for communication..
+2020-04-08 14:59:50,717 INFO Connecting to MySQL with csm database..
+2020-04-08 14:59:50,718 INFO Creating cursor for communication with csm database..
+2020-04-08 14:59:50,718 INFO Cursor ready and awaiting commands.....
+2020-04-08 15:02:10,674 INFO Connecting to MySQL..
+2020-04-08 15:02:10,676 INFO Database connection successful
+2020-04-08 15:02:10,676 INFO Creating cursor for communication..
+2020-04-08 15:02:10,676 INFO Connecting to MySQL with csm database..
+2020-04-08 15:02:10,677 INFO Creating cursor for communication with csm database..
+2020-04-08 15:02:10,677 INFO Cursor ready and awaiting commands.....
+2020-04-08 15:04:59,979 INFO Connecting to MySQL..
+2020-04-08 15:04:59,981 INFO Database connection successful
+2020-04-08 15:04:59,981 INFO Creating cursor for communication..
+2020-04-08 15:04:59,981 INFO Connecting to MySQL with csm database..
+2020-04-08 15:04:59,982 INFO Creating cursor for communication with csm database..
+2020-04-08 15:04:59,982 INFO Cursor ready and awaiting commands.....
+2020-04-08 15:05:17,585 INFO Connecting to MySQL..
+2020-04-08 15:05:17,587 INFO Database connection successful
+2020-04-08 15:05:17,587 INFO Creating cursor for communication..
+2020-04-08 15:05:17,587 INFO Connecting to MySQL with csm database..
+2020-04-08 15:05:17,588 INFO Creating cursor for communication with csm database..
+2020-04-08 15:05:17,588 INFO Cursor ready and awaiting commands.....
+2020-04-08 15:33:50,186 INFO Connecting to MySQL..
+2020-04-08 15:33:50,188 INFO Database connection successful
+2020-04-08 15:33:50,188 INFO Creating cursor for communication..
+2020-04-08 15:33:50,189 INFO Connecting to MySQL with csm database..
+2020-04-08 15:33:50,189 INFO Creating cursor for communication with csm database..
+2020-04-08 15:33:50,189 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:34:57,826 DEBUG ===============================================================================================
+2020-04-08 16:34:57,826 DEBUG Creating session.
+2020-04-08 16:34:59,405 INFO Session created.
+2020-04-08 16:34:59,405 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:34:59,821 INFO Bucket already exists.
+2020-04-08 16:34:59,822 INFO Bucket ready for file operations
+2020-04-08 16:35:25,593 DEBUG ===============================================================================================
+2020-04-08 16:35:25,593 DEBUG Creating session.
+2020-04-08 16:35:27,055 INFO Session created.
+2020-04-08 16:35:27,055 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:35:27,456 INFO Bucket already exists.
+2020-04-08 16:35:27,457 INFO Bucket ready for file operations
+2020-04-08 16:35:37,901 DEBUG ===============================================================================================
+2020-04-08 16:35:37,901 DEBUG Creating session.
+2020-04-08 16:35:39,342 INFO Session created.
+2020-04-08 16:35:39,343 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:35:39,745 INFO Bucket already exists.
+2020-04-08 16:35:39,745 INFO Bucket ready for file operations
+2020-04-08 16:36:44,894 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 30, in complaint
+    complaint_data["attachment"] = True
+TypeError: 'str' object does not support item assignment
+2020-04-08 16:37:20,818 DEBUG ===============================================================================================
+2020-04-08 16:37:20,819 DEBUG Creating session.
+2020-04-08 16:37:22,288 INFO Session created.
+2020-04-08 16:37:22,288 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:37:22,693 INFO Bucket already exists.
+2020-04-08 16:37:22,693 INFO Bucket ready for file operations
+2020-04-08 16:38:48,010 DEBUG ===============================================================================================
+2020-04-08 16:38:48,011 DEBUG Creating session.
+2020-04-08 16:38:50,228 INFO Session created.
+2020-04-08 16:38:50,228 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:38:50,635 INFO Bucket already exists.
+2020-04-08 16:38:50,635 INFO Bucket ready for file operations
+2020-04-08 16:38:53,974 DEBUG Checking and uploading file...
+2020-04-08 16:38:53,975 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/2ce3524d-74cf-4abd-91a0-1cfaa3bf2ecc.jpg to bucket with destination 2ce3524d-74cf-4abd-91a0-1cfaa3bf2ecc.jpg
+2020-04-08 16:38:58,073 INFO File uploaded to 2ce3524d-74cf-4abd-91a0-1cfaa3bf2ecc.jpg
+2020-04-08 16:38:58,074 INFO Connecting to MySQL..
+2020-04-08 16:38:58,077 INFO Database connection successful
+2020-04-08 16:38:58,077 INFO Creating cursor for communication..
+2020-04-08 16:38:58,080 INFO Connecting to MySQL with csm database..
+2020-04-08 16:38:58,085 INFO Creating cursor for communication with csm database..
+2020-04-08 16:38:58,085 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:38:58,093 INFO Creating cursor for communication with csm database..
+2020-04-08 16:38:58,094 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:38:58,096 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 16:39:46,613 DEBUG ===============================================================================================
+2020-04-08 16:39:46,613 DEBUG Creating session.
+2020-04-08 16:39:47,993 INFO Session created.
+2020-04-08 16:39:47,993 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:39:48,415 INFO Bucket already exists.
+2020-04-08 16:39:48,416 INFO Bucket ready for file operations
+2020-04-08 16:40:16,940 DEBUG Checking and uploading file...
+2020-04-08 16:40:16,940 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/b9f3ee7a-62cb-4b82-8ca2-ddaefd019f21.jpg to bucket with destination b9f3ee7a-62cb-4b82-8ca2-ddaefd019f21.jpg
+2020-04-08 16:40:20,923 INFO File uploaded to b9f3ee7a-62cb-4b82-8ca2-ddaefd019f21.jpg
+2020-04-08 16:40:20,923 INFO Connecting to MySQL..
+2020-04-08 16:40:20,925 INFO Database connection successful
+2020-04-08 16:40:20,925 INFO Creating cursor for communication..
+2020-04-08 16:40:20,926 INFO Connecting to MySQL with csm database..
+2020-04-08 16:40:20,928 INFO Creating cursor for communication with csm database..
+2020-04-08 16:40:20,928 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:40:20,932 INFO Creating cursor for communication with csm database..
+2020-04-08 16:40:20,932 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:43:17,594 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 16:48:36,880 DEBUG ===============================================================================================
+2020-04-08 16:48:36,880 DEBUG Creating session.
+2020-04-08 16:48:38,317 INFO Session created.
+2020-04-08 16:48:38,317 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:48:38,648 INFO Bucket already exists.
+2020-04-08 16:48:38,648 INFO Bucket ready for file operations
+2020-04-08 16:48:51,106 DEBUG Checking and uploading file...
+2020-04-08 16:48:51,106 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/60732417-de54-420d-83e9-08fe4741e740.jpg to bucket with destination 60732417-de54-420d-83e9-08fe4741e740.jpg
+2020-04-08 16:48:53,888 INFO File uploaded to 60732417-de54-420d-83e9-08fe4741e740.jpg
+2020-04-08 16:48:53,889 INFO Connecting to MySQL..
+2020-04-08 16:48:53,891 INFO Database connection successful
+2020-04-08 16:48:53,891 INFO Creating cursor for communication..
+2020-04-08 16:48:53,892 INFO Connecting to MySQL with csm database..
+2020-04-08 16:48:53,894 INFO Creating cursor for communication with csm database..
+2020-04-08 16:48:53,894 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:48:53,896 INFO Creating cursor for communication with csm database..
+2020-04-08 16:48:53,896 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:48:53,897 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, consumer_data))
+IndexError: tuple index out of range
+2020-04-08 16:49:13,378 DEBUG ===============================================================================================
+2020-04-08 16:49:13,378 DEBUG Creating session.
+2020-04-08 16:49:14,722 INFO Session created.
+2020-04-08 16:49:14,722 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:49:15,064 INFO Bucket already exists.
+2020-04-08 16:49:15,064 INFO Bucket ready for file operations
+2020-04-08 16:49:18,666 DEBUG Checking and uploading file...
+2020-04-08 16:49:18,666 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/6c468b37-0b3d-40a0-9642-52372fe488f7.jpg to bucket with destination 6c468b37-0b3d-40a0-9642-52372fe488f7.jpg
+2020-04-08 16:49:21,612 INFO File uploaded to 6c468b37-0b3d-40a0-9642-52372fe488f7.jpg
+2020-04-08 16:49:21,613 INFO Connecting to MySQL..
+2020-04-08 16:49:21,614 INFO Database connection successful
+2020-04-08 16:49:21,614 INFO Creating cursor for communication..
+2020-04-08 16:49:21,614 INFO Connecting to MySQL with csm database..
+2020-04-08 16:49:21,615 INFO Creating cursor for communication with csm database..
+2020-04-08 16:49:21,615 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:49:21,616 INFO Creating cursor for communication with csm database..
+2020-04-08 16:49:21,616 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:49:21,616 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 16:57:12,981 DEBUG ===============================================================================================
+2020-04-08 16:57:12,981 DEBUG Creating session.
+2020-04-08 16:57:14,486 INFO Session created.
+2020-04-08 16:57:14,486 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:57:14,785 INFO Bucket already exists.
+2020-04-08 16:57:14,785 INFO Bucket ready for file operations
+2020-04-08 16:57:18,170 DEBUG Checking and uploading file...
+2020-04-08 16:57:18,170 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/8a5d0976-ac4e-4095-b403-f1ee6334e829.jpg to bucket with destination 8a5d0976-ac4e-4095-b403-f1ee6334e829.jpg
+2020-04-08 16:57:22,385 INFO File uploaded to 8a5d0976-ac4e-4095-b403-f1ee6334e829.jpg
+2020-04-08 16:57:22,386 INFO Connecting to MySQL..
+2020-04-08 16:57:22,387 INFO Database connection successful
+2020-04-08 16:57:22,387 INFO Creating cursor for communication..
+2020-04-08 16:57:22,387 INFO Connecting to MySQL with csm database..
+2020-04-08 16:57:22,388 INFO Creating cursor for communication with csm database..
+2020-04-08 16:57:22,388 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:57:22,390 INFO Creating cursor for communication with csm database..
+2020-04-08 16:57:22,390 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:57:22,390 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 19, in insert_data_to_database
+    command = json.load(consumer_data)
+  File "/usr/lib/python3.6/json/__init__.py", line 296, in load
+    return loads(fp.read(),
+AttributeError: 'tuple' object has no attribute 'read'
+2020-04-08 16:58:25,327 DEBUG ===============================================================================================
+2020-04-08 16:58:25,327 DEBUG Creating session.
+2020-04-08 16:58:26,771 INFO Session created.
+2020-04-08 16:58:26,771 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:58:27,171 INFO Bucket already exists.
+2020-04-08 16:58:27,171 INFO Bucket ready for file operations
+2020-04-08 16:58:30,557 DEBUG Checking and uploading file...
+2020-04-08 16:58:30,557 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/6d0fb115-d460-4660-beca-d4d5ce446fe7.jpg to bucket with destination 6d0fb115-d460-4660-beca-d4d5ce446fe7.jpg
+2020-04-08 16:58:33,924 INFO File uploaded to 6d0fb115-d460-4660-beca-d4d5ce446fe7.jpg
+2020-04-08 16:58:33,925 INFO Connecting to MySQL..
+2020-04-08 16:58:33,926 INFO Database connection successful
+2020-04-08 16:58:33,926 INFO Creating cursor for communication..
+2020-04-08 16:58:33,927 INFO Connecting to MySQL with csm database..
+2020-04-08 16:58:33,928 INFO Creating cursor for communication with csm database..
+2020-04-08 16:58:33,928 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:58:33,930 INFO Creating cursor for communication with csm database..
+2020-04-08 16:58:33,930 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:58:33,931 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 16:59:27,894 DEBUG ===============================================================================================
+2020-04-08 16:59:27,894 DEBUG Creating session.
+2020-04-08 16:59:29,270 INFO Session created.
+2020-04-08 16:59:29,270 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:59:29,625 INFO Bucket already exists.
+2020-04-08 16:59:29,625 INFO Bucket ready for file operations
+2020-04-08 16:59:33,884 DEBUG Checking and uploading file...
+2020-04-08 16:59:33,884 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/05eb62ae-f7a0-4dca-8b8c-a0e1fe997a64.jpg to bucket with destination 05eb62ae-f7a0-4dca-8b8c-a0e1fe997a64.jpg
+2020-04-08 16:59:37,888 INFO File uploaded to 05eb62ae-f7a0-4dca-8b8c-a0e1fe997a64.jpg
+2020-04-08 16:59:37,888 INFO Connecting to MySQL..
+2020-04-08 16:59:37,890 INFO Database connection successful
+2020-04-08 16:59:37,890 INFO Creating cursor for communication..
+2020-04-08 16:59:37,890 INFO Connecting to MySQL with csm database..
+2020-04-08 16:59:37,891 INFO Creating cursor for communication with csm database..
+2020-04-08 16:59:37,891 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:59:37,893 INFO Creating cursor for communication with csm database..
+2020-04-08 16:59:37,893 INFO Cursor ready and awaiting commands.....
+2020-04-08 16:59:37,894 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO '{}' {} VALUES {}".format(table_name, command, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''public_complaints' (name, contact, age, email, occupation, current_location, co' at line 1")
+2020-04-08 16:59:54,975 DEBUG ===============================================================================================
+2020-04-08 16:59:54,975 DEBUG Creating session.
+2020-04-08 16:59:56,365 INFO Session created.
+2020-04-08 16:59:56,365 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 16:59:56,768 INFO Bucket already exists.
+2020-04-08 16:59:56,768 INFO Bucket ready for file operations
+2020-04-08 16:59:59,976 DEBUG Checking and uploading file...
+2020-04-08 16:59:59,976 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/59c7daec-7f4b-4042-a681-a67034c457f4.jpg to bucket with destination 59c7daec-7f4b-4042-a681-a67034c457f4.jpg
+2020-04-08 17:00:03,908 INFO File uploaded to 59c7daec-7f4b-4042-a681-a67034c457f4.jpg
+2020-04-08 17:00:03,908 INFO Connecting to MySQL..
+2020-04-08 17:00:03,909 INFO Database connection successful
+2020-04-08 17:00:03,909 INFO Creating cursor for communication..
+2020-04-08 17:00:03,909 INFO Connecting to MySQL with csm database..
+2020-04-08 17:00:03,910 INFO Creating cursor for communication with csm database..
+2020-04-08 17:00:03,910 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:00:03,911 INFO Creating cursor for communication with csm database..
+2020-04-08 17:00:03,912 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:00:03,912 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 17:01:29,798 DEBUG ===============================================================================================
+2020-04-08 17:01:29,798 DEBUG Creating session.
+2020-04-08 17:01:31,279 INFO Session created.
+2020-04-08 17:01:31,279 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:01:31,603 INFO Bucket already exists.
+2020-04-08 17:01:31,603 INFO Bucket ready for file operations
+2020-04-08 17:01:35,833 DEBUG Checking and uploading file...
+2020-04-08 17:01:35,833 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/deaab6ac-73ad-4ca8-aa8e-7743f65bd6eb.jpg to bucket with destination deaab6ac-73ad-4ca8-aa8e-7743f65bd6eb.jpg
+2020-04-08 17:01:39,021 INFO File uploaded to deaab6ac-73ad-4ca8-aa8e-7743f65bd6eb.jpg
+2020-04-08 17:01:39,022 INFO Connecting to MySQL..
+2020-04-08 17:01:39,024 INFO Database connection successful
+2020-04-08 17:01:39,024 INFO Creating cursor for communication..
+2020-04-08 17:01:39,026 INFO Connecting to MySQL with csm database..
+2020-04-08 17:01:39,027 INFO Creating cursor for communication with csm database..
+2020-04-08 17:01:39,027 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:01:39,031 INFO Creating cursor for communication with csm database..
+2020-04-08 17:01:39,031 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:02:23,695 DEBUG ===============================================================================================
+2020-04-08 17:02:23,695 DEBUG Creating session.
+2020-04-08 17:02:25,137 INFO Session created.
+2020-04-08 17:02:25,137 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:02:25,442 INFO Bucket already exists.
+2020-04-08 17:02:25,442 INFO Bucket ready for file operations
+2020-04-08 17:02:29,136 DEBUG Checking and uploading file...
+2020-04-08 17:02:29,136 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/fb3dcd85-1d6f-4ae3-b989-d170a765c6b0.jpg to bucket with destination fb3dcd85-1d6f-4ae3-b989-d170a765c6b0.jpg
+2020-04-08 17:02:33,003 INFO File uploaded to fb3dcd85-1d6f-4ae3-b989-d170a765c6b0.jpg
+2020-04-08 17:02:33,003 INFO Connecting to MySQL..
+2020-04-08 17:02:33,006 INFO Database connection successful
+2020-04-08 17:02:33,007 INFO Creating cursor for communication..
+2020-04-08 17:02:33,009 INFO Connecting to MySQL with csm database..
+2020-04-08 17:02:33,011 INFO Creating cursor for communication with csm database..
+2020-04-08 17:02:33,012 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:02:33,016 INFO Creating cursor for communication with csm database..
+2020-04-08 17:02:33,016 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:02:33,018 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, str(consumer_data)))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 17:02:44,235 DEBUG ===============================================================================================
+2020-04-08 17:02:44,235 DEBUG Creating session.
+2020-04-08 17:02:45,600 INFO Session created.
+2020-04-08 17:02:45,600 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:02:45,921 INFO Bucket already exists.
+2020-04-08 17:02:45,921 INFO Bucket ready for file operations
+2020-04-08 17:02:51,121 DEBUG Checking and uploading file...
+2020-04-08 17:02:51,121 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/31cdf88b-1cad-4d01-b3c7-d8fe9dcb2262.jpg to bucket with destination 31cdf88b-1cad-4d01-b3c7-d8fe9dcb2262.jpg
+2020-04-08 17:02:54,162 INFO File uploaded to 31cdf88b-1cad-4d01-b3c7-d8fe9dcb2262.jpg
+2020-04-08 17:02:54,162 INFO Connecting to MySQL..
+2020-04-08 17:02:54,165 INFO Database connection successful
+2020-04-08 17:02:54,166 INFO Creating cursor for communication..
+2020-04-08 17:02:54,167 INFO Connecting to MySQL with csm database..
+2020-04-08 17:02:54,169 INFO Creating cursor for communication with csm database..
+2020-04-08 17:02:54,169 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:02:54,173 INFO Creating cursor for communication with csm database..
+2020-04-08 17:02:54,173 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:08:07,213 DEBUG ===============================================================================================
+2020-04-08 17:08:07,213 DEBUG Creating session.
+2020-04-08 17:08:08,674 INFO Session created.
+2020-04-08 17:08:08,674 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:08:09,261 INFO Bucket already exists.
+2020-04-08 17:08:09,261 INFO Bucket ready for file operations
+2020-04-08 17:08:24,941 DEBUG Checking and uploading file...
+2020-04-08 17:08:24,942 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/9179a4ac-980d-40a8-a76f-9cc40d34eb9f.jpg to bucket with destination 9179a4ac-980d-40a8-a76f-9cc40d34eb9f.jpg
+2020-04-08 17:08:28,351 INFO File uploaded to 9179a4ac-980d-40a8-a76f-9cc40d34eb9f.jpg
+2020-04-08 17:08:28,351 INFO Connecting to MySQL..
+2020-04-08 17:08:28,354 INFO Database connection successful
+2020-04-08 17:08:28,354 INFO Creating cursor for communication..
+2020-04-08 17:08:28,356 INFO Connecting to MySQL with csm database..
+2020-04-08 17:08:28,358 INFO Creating cursor for communication with csm database..
+2020-04-08 17:08:28,358 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:08:28,424 INFO Creating cursor for communication with csm database..
+2020-04-08 17:08:28,425 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:08:28,427 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, str(consumer_data)))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 17:10:23,981 DEBUG ===============================================================================================
+2020-04-08 17:10:23,981 DEBUG Creating session.
+2020-04-08 17:10:25,351 INFO Session created.
+2020-04-08 17:10:25,352 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:10:25,701 INFO Bucket already exists.
+2020-04-08 17:10:25,702 INFO Bucket ready for file operations
+2020-04-08 17:10:30,161 DEBUG Checking and uploading file...
+2020-04-08 17:10:30,161 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/565a454c-1984-49af-90ed-c8840a70cd98.jpg to bucket with destination 565a454c-1984-49af-90ed-c8840a70cd98.jpg
+2020-04-08 17:10:33,987 INFO File uploaded to 565a454c-1984-49af-90ed-c8840a70cd98.jpg
+2020-04-08 17:10:33,987 INFO Connecting to MySQL..
+2020-04-08 17:10:33,989 INFO Database connection successful
+2020-04-08 17:10:33,990 INFO Creating cursor for communication..
+2020-04-08 17:10:33,991 INFO Connecting to MySQL with csm database..
+2020-04-08 17:10:33,993 INFO Creating cursor for communication with csm database..
+2020-04-08 17:10:33,993 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:10:33,997 INFO Creating cursor for communication with csm database..
+2020-04-08 17:10:33,998 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:11:55,702 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 24, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, str(consumer_data)))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 17:14:56,428 DEBUG ===============================================================================================
+2020-04-08 17:14:56,428 DEBUG Creating session.
+2020-04-08 17:14:57,970 INFO Session created.
+2020-04-08 17:14:57,970 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:14:58,269 INFO Bucket already exists.
+2020-04-08 17:14:58,269 INFO Bucket ready for file operations
+2020-04-08 17:15:01,892 DEBUG Checking and uploading file...
+2020-04-08 17:15:01,892 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/f4e2830c-8567-457c-86ac-48dfc6790b54.jpg to bucket with destination f4e2830c-8567-457c-86ac-48dfc6790b54.jpg
+2020-04-08 17:15:05,915 INFO File uploaded to f4e2830c-8567-457c-86ac-48dfc6790b54.jpg
+2020-04-08 17:15:05,916 INFO Connecting to MySQL..
+2020-04-08 17:15:05,917 INFO Database connection successful
+2020-04-08 17:15:05,917 INFO Creating cursor for communication..
+2020-04-08 17:15:05,918 INFO Connecting to MySQL with csm database..
+2020-04-08 17:15:05,919 INFO Creating cursor for communication with csm database..
+2020-04-08 17:15:05,919 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:15:05,920 INFO Creating cursor for communication with csm database..
+2020-04-08 17:15:05,920 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:15:05,921 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 25, in insert_data_to_database
+    csm_cursor.execute(sql_command)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 17:17:51,835 DEBUG ===============================================================================================
+2020-04-08 17:17:51,835 DEBUG Creating session.
+2020-04-08 17:17:53,229 INFO Session created.
+2020-04-08 17:17:53,229 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:17:53,580 INFO Bucket already exists.
+2020-04-08 17:17:53,580 INFO Bucket ready for file operations
+2020-04-08 17:17:57,176 DEBUG Checking and uploading file...
+2020-04-08 17:17:57,176 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/f3a1db40-f839-444d-8d25-f993bf584c61.jpg to bucket with destination f3a1db40-f839-444d-8d25-f993bf584c61.jpg
+2020-04-08 17:18:01,003 INFO File uploaded to f3a1db40-f839-444d-8d25-f993bf584c61.jpg
+2020-04-08 17:18:01,003 INFO Connecting to MySQL..
+2020-04-08 17:18:01,004 INFO Database connection successful
+2020-04-08 17:18:01,004 INFO Creating cursor for communication..
+2020-04-08 17:18:01,005 INFO Connecting to MySQL with csm database..
+2020-04-08 17:18:01,006 INFO Creating cursor for communication with csm database..
+2020-04-08 17:18:01,006 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:18:01,008 INFO Creating cursor for communication with csm database..
+2020-04-08 17:18:01,008 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:18:01,008 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 25, in insert_data_to_database
+    csm_cursor.execute(sql_command)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)' at line 1")
+2020-04-08 17:19:01,354 DEBUG ===============================================================================================
+2020-04-08 17:19:01,354 DEBUG Creating session.
+2020-04-08 17:19:02,744 INFO Session created.
+2020-04-08 17:19:02,744 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:19:03,117 INFO Bucket already exists.
+2020-04-08 17:19:03,117 INFO Bucket ready for file operations
+2020-04-08 17:19:06,071 DEBUG Checking and uploading file...
+2020-04-08 17:19:06,071 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/b4300fb4-8bee-4af2-aca9-daf8e24de404.jpg to bucket with destination b4300fb4-8bee-4af2-aca9-daf8e24de404.jpg
+2020-04-08 17:19:09,321 INFO File uploaded to b4300fb4-8bee-4af2-aca9-daf8e24de404.jpg
+2020-04-08 17:19:09,321 INFO Connecting to MySQL..
+2020-04-08 17:19:09,323 INFO Database connection successful
+2020-04-08 17:19:09,323 INFO Creating cursor for communication..
+2020-04-08 17:19:09,324 INFO Connecting to MySQL with csm database..
+2020-04-08 17:19:09,325 INFO Creating cursor for communication with csm database..
+2020-04-08 17:19:09,325 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:19:09,327 INFO Creating cursor for communication with csm database..
+2020-04-08 17:19:09,328 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:19:09,328 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 25, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 168, in execute
+    query = self.mogrify(query, args)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 147, in mogrify
+    query = query % self._escape_args(args, conn)
+TypeError: not enough arguments for format string
+2020-04-08 17:19:45,259 DEBUG ===============================================================================================
+2020-04-08 17:19:45,260 DEBUG Creating session.
+2020-04-08 17:19:46,647 INFO Session created.
+2020-04-08 17:19:46,647 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:19:46,975 INFO Bucket already exists.
+2020-04-08 17:19:46,975 INFO Bucket ready for file operations
+2020-04-08 17:19:57,624 DEBUG Checking and uploading file...
+2020-04-08 17:19:57,625 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/42ffb0aa-c775-4bc6-8fee-f20c4fe724bc.jpg to bucket with destination 42ffb0aa-c775-4bc6-8fee-f20c4fe724bc.jpg
+2020-04-08 17:20:00,005 INFO File uploaded to 42ffb0aa-c775-4bc6-8fee-f20c4fe724bc.jpg
+2020-04-08 17:20:00,006 INFO Connecting to MySQL..
+2020-04-08 17:20:00,010 INFO Database connection successful
+2020-04-08 17:20:00,011 INFO Creating cursor for communication..
+2020-04-08 17:20:00,013 INFO Connecting to MySQL with csm database..
+2020-04-08 17:20:00,016 INFO Creating cursor for communication with csm database..
+2020-04-08 17:20:00,017 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:20:00,023 INFO Creating cursor for communication with csm database..
+2020-04-08 17:20:00,024 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:22:38,653 DEBUG ===============================================================================================
+2020-04-08 17:22:38,653 DEBUG Creating session.
+2020-04-08 17:22:39,906 INFO Session created.
+2020-04-08 17:22:39,906 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:22:40,221 INFO Bucket already exists.
+2020-04-08 17:22:40,221 INFO Bucket ready for file operations
+2020-04-08 17:22:46,964 DEBUG Checking and uploading file...
+2020-04-08 17:22:46,964 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/df8db9ef-283e-4d5e-b604-ab3da32ea4ba.jpg to bucket with destination df8db9ef-283e-4d5e-b604-ab3da32ea4ba.jpg
+2020-04-08 17:22:49,349 INFO File uploaded to df8db9ef-283e-4d5e-b604-ab3da32ea4ba.jpg
+2020-04-08 17:22:49,349 INFO Connecting to MySQL..
+2020-04-08 17:22:49,352 INFO Database connection successful
+2020-04-08 17:22:49,352 INFO Creating cursor for communication..
+2020-04-08 17:22:49,353 INFO Connecting to MySQL with csm database..
+2020-04-08 17:22:49,355 INFO Creating cursor for communication with csm database..
+2020-04-08 17:22:49,356 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:22:49,359 INFO Creating cursor for communication with csm database..
+2020-04-08 17:22:49,360 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:22:49,362 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 25, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 17:23:12,523 DEBUG Checking and uploading file...
+2020-04-08 17:23:12,524 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/0c00e82e-c890-420a-aba5-3fdb10252d70.jpg to bucket with destination 0c00e82e-c890-420a-aba5-3fdb10252d70.jpg
+2020-04-08 17:23:14,880 INFO File uploaded to 0c00e82e-c890-420a-aba5-3fdb10252d70.jpg
+2020-04-08 17:23:14,880 INFO Connecting to MySQL..
+2020-04-08 17:23:14,882 INFO Database connection successful
+2020-04-08 17:23:14,882 INFO Creating cursor for communication..
+2020-04-08 17:23:14,883 INFO Connecting to MySQL with csm database..
+2020-04-08 17:23:14,884 INFO Creating cursor for communication with csm database..
+2020-04-08 17:23:14,885 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:23:14,887 INFO Creating cursor for communication with csm database..
+2020-04-08 17:23:14,887 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:23:14,888 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 25, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1406, "Data too long for column 's3_file_link' at row 1")
+2020-04-08 17:24:27,217 DEBUG ===============================================================================================
+2020-04-08 17:24:27,217 DEBUG Creating session.
+2020-04-08 17:24:28,431 INFO Session created.
+2020-04-08 17:24:28,431 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:24:28,733 INFO Bucket already exists.
+2020-04-08 17:24:28,733 INFO Bucket ready for file operations
+2020-04-08 17:24:33,049 DEBUG Checking and uploading file...
+2020-04-08 17:24:33,049 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/70791839-06f7-471d-b291-bfe48efca7fe.jpg to bucket with destination 70791839-06f7-471d-b291-bfe48efca7fe.jpg
+2020-04-08 17:24:35,426 INFO File uploaded to 70791839-06f7-471d-b291-bfe48efca7fe.jpg
+2020-04-08 17:24:35,427 INFO Connecting to MySQL..
+2020-04-08 17:24:35,428 INFO Database connection successful
+2020-04-08 17:24:35,428 INFO Creating cursor for communication..
+2020-04-08 17:24:35,429 INFO Connecting to MySQL with csm database..
+2020-04-08 17:24:35,430 INFO Creating cursor for communication with csm database..
+2020-04-08 17:24:35,430 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:24:35,498 INFO Creating cursor for communication with csm database..
+2020-04-08 17:24:35,498 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:25:42,751 DEBUG ===============================================================================================
+2020-04-08 17:25:42,751 DEBUG Creating session.
+2020-04-08 17:25:43,971 INFO Session created.
+2020-04-08 17:25:43,972 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:25:44,290 INFO Bucket already exists.
+2020-04-08 17:25:44,290 INFO Bucket ready for file operations
+2020-04-08 17:25:49,330 DEBUG Checking and uploading file...
+2020-04-08 17:25:49,330 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/8015c89b-979b-42fc-bf33-f2884ac73c7c.jpg to bucket with destination 8015c89b-979b-42fc-bf33-f2884ac73c7c.jpg
+2020-04-08 17:25:53,704 INFO File uploaded to 8015c89b-979b-42fc-bf33-f2884ac73c7c.jpg
+2020-04-08 17:25:53,704 INFO Connecting to MySQL..
+2020-04-08 17:25:53,707 INFO Database connection successful
+2020-04-08 17:25:53,707 INFO Creating cursor for communication..
+2020-04-08 17:25:53,708 INFO Connecting to MySQL with csm database..
+2020-04-08 17:25:53,709 INFO Creating cursor for communication with csm database..
+2020-04-08 17:25:53,710 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:25:53,711 INFO Creating cursor for communication with csm database..
+2020-04-08 17:25:53,712 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:26:16,183 DEBUG ===============================================================================================
+2020-04-08 17:26:16,183 DEBUG Creating session.
+2020-04-08 17:26:17,977 INFO Session created.
+2020-04-08 17:26:17,977 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:26:18,282 INFO Bucket already exists.
+2020-04-08 17:26:18,283 INFO Bucket ready for file operations
+2020-04-08 17:26:20,809 DEBUG Checking and uploading file...
+2020-04-08 17:26:20,809 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/869afde8-6b24-45f3-81eb-17084c5b1481.jpg to bucket with destination 869afde8-6b24-45f3-81eb-17084c5b1481.jpg
+2020-04-08 17:26:25,228 INFO File uploaded to 869afde8-6b24-45f3-81eb-17084c5b1481.jpg
+2020-04-08 17:26:25,228 INFO Connecting to MySQL..
+2020-04-08 17:26:25,230 INFO Database connection successful
+2020-04-08 17:26:25,230 INFO Creating cursor for communication..
+2020-04-08 17:26:25,231 INFO Connecting to MySQL with csm database..
+2020-04-08 17:26:25,232 INFO Creating cursor for communication with csm database..
+2020-04-08 17:26:25,232 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:26:25,234 INFO Creating cursor for communication with csm database..
+2020-04-08 17:26:25,234 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:30:01,439 INFO Creating cursor for communication with csm database..
+2020-04-08 17:30:01,440 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:30:01,443 ERROR Exception on /csm/govt_official/login [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 72, in assigned_complaints
+    items_to_display = check_user_data(user_name=request.form["user_name"], password=request.form["password"])
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/verify_user.py", line 27, in check_user_data
+    csm_cursor.execute("SELECT * FROM public_suggestions WHERE complaint_to = '{}'".format(designation))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 17:31:27,429 DEBUG ===============================================================================================
+2020-04-08 17:31:27,429 DEBUG Creating session.
+2020-04-08 17:31:28,792 INFO Session created.
+2020-04-08 17:31:28,792 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:31:29,101 INFO Bucket already exists.
+2020-04-08 17:31:29,101 INFO Bucket ready for file operations
+2020-04-08 17:31:31,771 INFO Creating cursor for communication with csm database..
+2020-04-08 17:31:31,771 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:31:31,772 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 17:31:31,772 ERROR Exception on /csm/govt_official/login [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 72, in assigned_complaints
+    items_to_display = check_user_data(user_name=request.form["user_name"], password=request.form["password"])
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/verify_user.py", line 34, in check_user_data
+    display_data = complaints_assigned + suggestion_assigned
+UnboundLocalError: local variable 'suggestion_assigned' referenced before assignment
+2020-04-08 17:33:07,725 DEBUG ===============================================================================================
+2020-04-08 17:33:07,725 DEBUG Creating session.
+2020-04-08 17:33:08,921 INFO Session created.
+2020-04-08 17:33:08,921 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:33:09,222 INFO Bucket already exists.
+2020-04-08 17:33:09,222 INFO Bucket ready for file operations
+2020-04-08 17:33:11,543 INFO Creating cursor for communication with csm database..
+2020-04-08 17:33:11,543 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:33:11,545 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 17:33:11,545 ERROR Exception on /csm/govt_official/login [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2131, in make_response
+    " {rv.__class__.__name__}.".format(rv=rv)
+TypeError: The view function did not return a valid response. The return type must be a string, dict, tuple, Response instance, or WSGI callable, but it was a list.
+2020-04-08 17:34:02,986 DEBUG ===============================================================================================
+2020-04-08 17:34:02,986 DEBUG Creating session.
+2020-04-08 17:34:04,981 INFO Session created.
+2020-04-08 17:34:04,982 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:34:05,344 INFO Bucket already exists.
+2020-04-08 17:34:05,345 INFO Bucket ready for file operations
+2020-04-08 17:34:10,176 INFO Creating cursor for communication with csm database..
+2020-04-08 17:34:10,176 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:34:10,177 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 17:34:10,178 ERROR Exception on /csm/govt_official/login [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 74, in assigned_complaints
+    return {items_to_display}, 200
+TypeError: unhashable type: 'list'
+2020-04-08 17:35:21,607 DEBUG ===============================================================================================
+2020-04-08 17:35:21,607 DEBUG Creating session.
+2020-04-08 17:35:22,837 INFO Session created.
+2020-04-08 17:35:22,837 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 17:35:23,138 INFO Bucket already exists.
+2020-04-08 17:35:23,138 INFO Bucket ready for file operations
+2020-04-08 17:35:26,740 INFO Creating cursor for communication with csm database..
+2020-04-08 17:35:26,740 INFO Cursor ready and awaiting commands.....
+2020-04-08 17:35:26,741 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 18:02:47,738 DEBUG ===============================================================================================
+2020-04-08 18:02:47,739 DEBUG Creating session.
+2020-04-08 18:02:50,250 INFO Session created.
+2020-04-08 18:02:50,251 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:02:50,995 INFO Bucket already exists.
+2020-04-08 18:02:50,995 INFO Bucket ready for file operations
+2020-04-08 18:02:58,356 DEBUG Checking and uploading file...
+2020-04-08 18:02:58,356 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/4be1f773-6b72-407a-b389-be6291b65905.jpg to bucket with destination 4be1f773-6b72-407a-b389-be6291b65905.jpg
+2020-04-08 18:03:01,565 INFO File uploaded to 4be1f773-6b72-407a-b389-be6291b65905.jpg
+2020-04-08 18:03:01,565 INFO Connecting to MySQL..
+2020-04-08 18:03:01,568 INFO Database connection successful
+2020-04-08 18:03:01,568 INFO Creating cursor for communication..
+2020-04-08 18:03:01,570 INFO Connecting to MySQL with csm database..
+2020-04-08 18:03:01,572 INFO Creating cursor for communication with csm database..
+2020-04-08 18:03:01,573 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:03:01,646 INFO Creating cursor for communication with csm database..
+2020-04-08 18:03:01,646 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:03:01,648 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 55, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1136, "Column count doesn't match value count at row 1")
+2020-04-08 18:04:30,062 DEBUG ===============================================================================================
+2020-04-08 18:04:30,063 DEBUG Creating session.
+2020-04-08 18:04:32,240 INFO Session created.
+2020-04-08 18:04:32,241 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:04:33,440 INFO Bucket already exists.
+2020-04-08 18:04:33,440 INFO Bucket ready for file operations
+2020-04-08 18:04:36,492 DEBUG Checking and uploading file...
+2020-04-08 18:04:36,492 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/d0587d82-9447-4a98-b79e-c1aae98e224c.jpg to bucket with destination d0587d82-9447-4a98-b79e-c1aae98e224c.jpg
+2020-04-08 18:04:42,571 INFO File uploaded to d0587d82-9447-4a98-b79e-c1aae98e224c.jpg
+2020-04-08 18:04:42,571 INFO Connecting to MySQL..
+2020-04-08 18:04:42,572 INFO Database connection successful
+2020-04-08 18:04:42,572 INFO Creating cursor for communication..
+2020-04-08 18:04:42,572 INFO Connecting to MySQL with csm database..
+2020-04-08 18:04:42,573 INFO Creating cursor for communication with csm database..
+2020-04-08 18:04:42,573 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:04:42,574 INFO Creating cursor for communication with csm database..
+2020-04-08 18:04:42,575 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:05:02,922 INFO Creating cursor for communication with csm database..
+2020-04-08 18:05:02,922 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:05:02,923 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 18:18:03,907 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1953, in full_dispatch_request
+    return self.finalize_request(rv)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1968, in finalize_request
+    response = self.make_response(rv)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2098, in make_response
+    "The view function did not return a valid response. The"
+TypeError: The view function did not return a valid response. The function either returned None or ended without a return statement.
+2020-04-08 18:20:20,686 DEBUG ===============================================================================================
+2020-04-08 18:20:20,686 DEBUG Creating session.
+2020-04-08 18:20:22,237 INFO Session created.
+2020-04-08 18:20:22,237 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:20:22,658 INFO Bucket already exists.
+2020-04-08 18:20:22,658 INFO Bucket ready for file operations
+2020-04-08 18:20:29,582 DEBUG Checking and uploading file...
+2020-04-08 18:20:29,582 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/652f16ec-5e80-42f6-85f4-492ce6b79f90.jpg to bucket with destination 652f16ec-5e80-42f6-85f4-492ce6b79f90.jpg
+2020-04-08 18:20:35,297 INFO File uploaded to 652f16ec-5e80-42f6-85f4-492ce6b79f90.jpg
+2020-04-08 18:20:35,297 INFO Connecting to MySQL..
+2020-04-08 18:20:35,299 INFO Database connection successful
+2020-04-08 18:20:35,299 INFO Creating cursor for communication..
+2020-04-08 18:20:35,300 INFO Connecting to MySQL with csm database..
+2020-04-08 18:20:35,301 INFO Creating cursor for communication with csm database..
+2020-04-08 18:20:35,301 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:20:41,040 INFO Creating cursor for communication with csm database..
+2020-04-08 18:20:41,040 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:20:54,719 DEBUG ===============================================================================================
+2020-04-08 18:20:54,719 DEBUG Creating session.
+2020-04-08 18:20:57,616 INFO Session created.
+2020-04-08 18:20:57,616 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:20:58,791 INFO Bucket already exists.
+2020-04-08 18:20:58,791 INFO Bucket ready for file operations
+2020-04-08 18:21:01,006 DEBUG Checking and uploading file...
+2020-04-08 18:21:01,006 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/f7a6f2c8-9170-4456-8b48-553416d186a0.jpg to bucket with destination f7a6f2c8-9170-4456-8b48-553416d186a0.jpg
+2020-04-08 18:21:04,372 INFO File uploaded to f7a6f2c8-9170-4456-8b48-553416d186a0.jpg
+2020-04-08 18:21:04,373 INFO Connecting to MySQL..
+2020-04-08 18:21:04,378 INFO Database connection successful
+2020-04-08 18:21:04,379 INFO Creating cursor for communication..
+2020-04-08 18:21:04,382 INFO Connecting to MySQL with csm database..
+2020-04-08 18:21:04,386 INFO Creating cursor for communication with csm database..
+2020-04-08 18:21:04,386 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:21:29,808 INFO Creating cursor for communication with csm database..
+2020-04-08 18:21:30,602 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:21:53,006 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:22:26,176 DEBUG ===============================================================================================
+2020-04-08 18:22:26,177 DEBUG Creating session.
+2020-04-08 18:22:27,557 INFO Session created.
+2020-04-08 18:22:27,557 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:22:27,877 INFO Bucket already exists.
+2020-04-08 18:22:27,877 INFO Bucket ready for file operations
+2020-04-08 18:22:31,869 DEBUG Checking and uploading file...
+2020-04-08 18:22:31,869 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/2f6875fa-11bf-468e-82a0-3c52c00d534f.jpg to bucket with destination 2f6875fa-11bf-468e-82a0-3c52c00d534f.jpg
+2020-04-08 18:22:37,768 INFO File uploaded to 2f6875fa-11bf-468e-82a0-3c52c00d534f.jpg
+2020-04-08 18:22:37,768 INFO Connecting to MySQL..
+2020-04-08 18:22:37,770 INFO Database connection successful
+2020-04-08 18:22:37,770 INFO Creating cursor for communication..
+2020-04-08 18:22:37,772 INFO Connecting to MySQL with csm database..
+2020-04-08 18:22:37,773 INFO Creating cursor for communication with csm database..
+2020-04-08 18:22:37,773 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:22:37,776 INFO Creating cursor for communication with csm database..
+2020-04-08 18:22:37,777 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:24:34,313 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:29:20,415 DEBUG ===============================================================================================
+2020-04-08 18:29:20,415 DEBUG Creating session.
+2020-04-08 18:29:22,798 INFO Session created.
+2020-04-08 18:29:22,798 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:29:23,206 INFO Bucket already exists.
+2020-04-08 18:29:23,206 INFO Bucket ready for file operations
+2020-04-08 18:29:27,852 DEBUG Checking and uploading file...
+2020-04-08 18:29:27,852 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/38291ea7-7813-42fb-b1a0-b2f1d9502f63.jpg to bucket with destination 38291ea7-7813-42fb-b1a0-b2f1d9502f63.jpg
+2020-04-08 18:29:39,467 INFO File uploaded to 38291ea7-7813-42fb-b1a0-b2f1d9502f63.jpg
+2020-04-08 18:29:39,467 INFO Connecting to MySQL..
+2020-04-08 18:29:39,468 INFO Database connection successful
+2020-04-08 18:29:39,468 INFO Creating cursor for communication..
+2020-04-08 18:29:39,469 INFO Connecting to MySQL with csm database..
+2020-04-08 18:29:39,471 INFO Creating cursor for communication with csm database..
+2020-04-08 18:29:39,471 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:29:39,536 INFO Creating cursor for communication with csm database..
+2020-04-08 18:29:39,537 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:29:39,538 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 15, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} VALUES {}".format(table_name, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:32:09,690 DEBUG ===============================================================================================
+2020-04-08 18:32:09,690 DEBUG Creating session.
+2020-04-08 18:32:11,171 INFO Session created.
+2020-04-08 18:32:11,171 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:32:11,557 INFO Bucket already exists.
+2020-04-08 18:32:11,557 INFO Bucket ready for file operations
+2020-04-08 18:32:36,345 DEBUG Checking and uploading file...
+2020-04-08 18:32:36,345 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/27edce82-bf40-40fe-8302-fbb56d3d5f19.jpg to bucket with destination 27edce82-bf40-40fe-8302-fbb56d3d5f19.jpg
+2020-04-08 18:32:39,606 INFO File uploaded to 27edce82-bf40-40fe-8302-fbb56d3d5f19.jpg
+2020-04-08 18:32:39,606 INFO Connecting to MySQL..
+2020-04-08 18:32:39,607 INFO Database connection successful
+2020-04-08 18:32:39,607 INFO Creating cursor for communication..
+2020-04-08 18:32:39,608 INFO Connecting to MySQL with csm database..
+2020-04-08 18:32:39,609 INFO Creating cursor for communication with csm database..
+2020-04-08 18:32:39,609 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:32:39,611 INFO Creating cursor for communication with csm database..
+2020-04-08 18:32:39,611 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:35:30,403 DEBUG ===============================================================================================
+2020-04-08 18:35:30,403 DEBUG Creating session.
+2020-04-08 18:35:43,232 INFO Session created.
+2020-04-08 18:35:43,232 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:35:44,641 INFO Bucket already exists.
+2020-04-08 18:35:44,641 INFO Bucket ready for file operations
+2020-04-08 18:35:50,057 DEBUG ===============================================================================================
+2020-04-08 18:35:50,057 DEBUG Creating session.
+2020-04-08 18:35:57,930 INFO Session created.
+2020-04-08 18:35:57,930 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:36:51,192 DEBUG ===============================================================================================
+2020-04-08 18:36:51,192 DEBUG Creating session.
+2020-04-08 18:36:55,650 INFO Session created.
+2020-04-08 18:36:55,651 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:36:59,272 INFO Bucket already exists.
+2020-04-08 18:36:59,272 INFO Bucket ready for file operations
+2020-04-08 18:37:05,102 DEBUG ===============================================================================================
+2020-04-08 18:37:05,103 DEBUG Creating session.
+2020-04-08 18:37:13,421 INFO Session created.
+2020-04-08 18:37:13,421 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:37:53,367 INFO Bucket already exists.
+2020-04-08 18:37:53,367 INFO Bucket ready for file operations
+2020-04-08 18:38:01,898 DEBUG Checking and uploading file...
+2020-04-08 18:38:01,898 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/7fe0d6f5-7657-47e3-b68b-ce3208b5c896.jpg to bucket with destination 7fe0d6f5-7657-47e3-b68b-ce3208b5c896.jpg
+2020-04-08 18:38:12,505 INFO File uploaded to 7fe0d6f5-7657-47e3-b68b-ce3208b5c896.jpg
+2020-04-08 18:38:12,505 INFO Connecting to MySQL..
+2020-04-08 18:38:12,508 INFO Database connection successful
+2020-04-08 18:38:12,509 INFO Creating cursor for communication..
+2020-04-08 18:38:12,511 INFO Connecting to MySQL with csm database..
+2020-04-08 18:38:12,514 INFO Creating cursor for communication with csm database..
+2020-04-08 18:38:12,514 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:38:12,518 INFO Creating cursor for communication with csm database..
+2020-04-08 18:38:12,519 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:38:12,520 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 19, in insert_data_to_database
+    command = json.loads(sql_command_data)["public_suggestions"]
+  File "/usr/lib/python3.6/json/__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'TextIOWrapper'
+2020-04-08 18:39:00,699 DEBUG ===============================================================================================
+2020-04-08 18:39:00,699 DEBUG Creating session.
+2020-04-08 18:39:07,930 INFO Session created.
+2020-04-08 18:39:07,930 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:39:32,897 INFO Bucket already exists.
+2020-04-08 18:39:32,897 INFO Bucket ready for file operations
+2020-04-08 18:39:36,389 DEBUG Checking and uploading file...
+2020-04-08 18:39:36,389 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/b125285b-2c67-422c-9baf-e2f2eaed3217.jpg to bucket with destination b125285b-2c67-422c-9baf-e2f2eaed3217.jpg
+2020-04-08 18:39:40,486 INFO File uploaded to b125285b-2c67-422c-9baf-e2f2eaed3217.jpg
+2020-04-08 18:39:40,486 INFO Connecting to MySQL..
+2020-04-08 18:39:40,488 INFO Database connection successful
+2020-04-08 18:39:40,488 INFO Creating cursor for communication..
+2020-04-08 18:39:40,489 INFO Connecting to MySQL with csm database..
+2020-04-08 18:39:40,490 INFO Creating cursor for communication with csm database..
+2020-04-08 18:39:40,490 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:39:40,492 INFO Creating cursor for communication with csm database..
+2020-04-08 18:39:40,492 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:39:40,493 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 19, in insert_data_to_database
+    command = json.loads(sql_command_data)
+  File "/usr/lib/python3.6/json/__init__.py", line 348, in loads
+    'not {!r}'.format(s.__class__.__name__))
+TypeError: the JSON object must be str, bytes or bytearray, not 'TextIOWrapper'
+2020-04-08 18:41:51,193 DEBUG ===============================================================================================
+2020-04-08 18:41:51,193 DEBUG Creating session.
+2020-04-08 18:41:53,862 INFO Session created.
+2020-04-08 18:41:53,862 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:42:00,800 DEBUG ===============================================================================================
+2020-04-08 18:42:00,801 DEBUG Creating session.
+2020-04-08 18:42:06,970 INFO Session created.
+2020-04-08 18:42:06,970 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:42:48,409 DEBUG ===============================================================================================
+2020-04-08 18:42:48,409 DEBUG Creating session.
+2020-04-08 18:42:54,302 INFO Session created.
+2020-04-08 18:42:54,303 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:45:00,868 DEBUG ===============================================================================================
+2020-04-08 18:45:00,868 DEBUG Creating session.
+2020-04-08 18:45:07,068 INFO Session created.
+2020-04-08 18:45:07,068 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:45:09,714 INFO Bucket already exists.
+2020-04-08 18:45:09,714 INFO Bucket ready for file operations
+2020-04-08 18:45:14,271 DEBUG Checking and uploading file...
+2020-04-08 18:45:14,271 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/1e43d7f7-ad0a-4303-8185-72dec748f72d.jpg to bucket with destination 1e43d7f7-ad0a-4303-8185-72dec748f72d.jpg
+2020-04-08 18:45:21,388 INFO File uploaded to 1e43d7f7-ad0a-4303-8185-72dec748f72d.jpg
+2020-04-08 18:45:21,388 INFO Connecting to MySQL..
+2020-04-08 18:45:21,389 INFO Database connection successful
+2020-04-08 18:45:21,389 INFO Creating cursor for communication..
+2020-04-08 18:45:21,390 INFO Connecting to MySQL with csm database..
+2020-04-08 18:45:21,391 INFO Creating cursor for communication with csm database..
+2020-04-08 18:45:21,391 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:45:21,393 INFO Creating cursor for communication with csm database..
+2020-04-08 18:45:21,394 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:45:21,401 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 21, in insert_data_to_database
+    csm_cursor.execute("INSERT INTO {} {} VALUES {}".format(table_name, command, consumer_data))
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:47:27,613 DEBUG ===============================================================================================
+2020-04-08 18:47:27,614 DEBUG Creating session.
+2020-04-08 18:47:34,238 INFO Session created.
+2020-04-08 18:47:34,238 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:47:39,672 INFO Bucket already exists.
+2020-04-08 18:47:39,672 INFO Bucket ready for file operations
+2020-04-08 18:48:07,602 DEBUG Checking and uploading file...
+2020-04-08 18:48:07,602 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/dc306cbe-2dce-482c-92ec-e277839e4936.jpg to bucket with destination dc306cbe-2dce-482c-92ec-e277839e4936.jpg
+2020-04-08 18:48:10,855 INFO File uploaded to dc306cbe-2dce-482c-92ec-e277839e4936.jpg
+2020-04-08 18:48:10,856 INFO Connecting to MySQL..
+2020-04-08 18:48:10,859 INFO Database connection successful
+2020-04-08 18:48:10,860 INFO Creating cursor for communication..
+2020-04-08 18:48:10,863 INFO Connecting to MySQL with csm database..
+2020-04-08 18:48:10,865 INFO Creating cursor for communication with csm database..
+2020-04-08 18:48:10,865 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:48:10,869 INFO Creating cursor for communication with csm database..
+2020-04-08 18:48:10,869 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:49:30,131 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:50:33,072 DEBUG ===============================================================================================
+2020-04-08 18:50:33,072 DEBUG Creating session.
+2020-04-08 18:50:39,708 INFO Session created.
+2020-04-08 18:50:39,708 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:50:41,754 INFO Bucket already exists.
+2020-04-08 18:50:41,754 INFO Bucket ready for file operations
+2020-04-08 18:50:44,602 DEBUG Checking and uploading file...
+2020-04-08 18:50:44,602 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/8e3fbe6f-004b-4597-8a9d-fd08b6dbdcef.jpg to bucket with destination 8e3fbe6f-004b-4597-8a9d-fd08b6dbdcef.jpg
+2020-04-08 18:50:50,896 INFO File uploaded to 8e3fbe6f-004b-4597-8a9d-fd08b6dbdcef.jpg
+2020-04-08 18:50:50,896 INFO Connecting to MySQL..
+2020-04-08 18:50:50,897 INFO Database connection successful
+2020-04-08 18:50:50,897 INFO Creating cursor for communication..
+2020-04-08 18:50:50,898 INFO Connecting to MySQL with csm database..
+2020-04-08 18:50:50,899 INFO Creating cursor for communication with csm database..
+2020-04-08 18:50:50,899 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:50:50,901 INFO Creating cursor for communication with csm database..
+2020-04-08 18:50:50,901 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:50:50,902 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:51:46,453 DEBUG ===============================================================================================
+2020-04-08 18:51:46,453 DEBUG Creating session.
+2020-04-08 18:51:51,759 INFO Session created.
+2020-04-08 18:51:51,759 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:51:54,294 INFO Bucket already exists.
+2020-04-08 18:51:54,294 INFO Bucket ready for file operations
+2020-04-08 18:51:58,159 DEBUG Checking and uploading file...
+2020-04-08 18:51:58,159 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/4a0132fd-4bc8-4055-ac96-4e844dd21173.jpg to bucket with destination 4a0132fd-4bc8-4055-ac96-4e844dd21173.jpg
+2020-04-08 18:52:01,406 INFO File uploaded to 4a0132fd-4bc8-4055-ac96-4e844dd21173.jpg
+2020-04-08 18:52:01,406 INFO Connecting to MySQL..
+2020-04-08 18:52:01,408 INFO Database connection successful
+2020-04-08 18:52:01,408 INFO Creating cursor for communication..
+2020-04-08 18:52:01,409 INFO Connecting to MySQL with csm database..
+2020-04-08 18:52:01,410 INFO Creating cursor for communication with csm database..
+2020-04-08 18:52:01,410 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:52:01,479 INFO Creating cursor for communication with csm database..
+2020-04-08 18:52:01,480 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:52:01,482 ERROR Exception on /csm/public/suggest [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 96, in suggestion
+    insert_data_to_database(table_name="public_suggestions", consumer_data=suggestion_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.DataError: (1264, "Out of range value for column 'contact' at row 1")
+2020-04-08 18:54:18,452 DEBUG ===============================================================================================
+2020-04-08 18:54:18,452 DEBUG Creating session.
+2020-04-08 18:54:21,398 INFO Session created.
+2020-04-08 18:54:21,398 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:54:23,059 INFO Bucket already exists.
+2020-04-08 18:54:23,059 INFO Bucket ready for file operations
+2020-04-08 18:54:26,870 DEBUG Checking and uploading file...
+2020-04-08 18:54:26,870 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/386ca760-193b-4682-95c7-72f901fa8a2d.jpg to bucket with destination 386ca760-193b-4682-95c7-72f901fa8a2d.jpg
+2020-04-08 18:54:32,275 INFO File uploaded to 386ca760-193b-4682-95c7-72f901fa8a2d.jpg
+2020-04-08 18:54:32,275 INFO Connecting to MySQL..
+2020-04-08 18:54:32,277 INFO Database connection successful
+2020-04-08 18:54:32,277 INFO Creating cursor for communication..
+2020-04-08 18:54:32,278 INFO Connecting to MySQL with csm database..
+2020-04-08 18:54:32,279 INFO Creating cursor for communication with csm database..
+2020-04-08 18:54:32,279 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:54:32,347 INFO Creating cursor for communication with csm database..
+2020-04-08 18:54:32,347 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:54:55,501 DEBUG Checking and uploading file...
+2020-04-08 18:54:55,501 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/fea561b7-795e-488a-8212-53c2c35b48f5.jpg to bucket with destination fea561b7-795e-488a-8212-53c2c35b48f5.jpg
+2020-04-08 18:55:01,483 INFO File uploaded to fea561b7-795e-488a-8212-53c2c35b48f5.jpg
+2020-04-08 18:55:01,483 INFO Connecting to MySQL..
+2020-04-08 18:55:01,484 INFO Database connection successful
+2020-04-08 18:55:01,484 INFO Creating cursor for communication..
+2020-04-08 18:55:01,485 INFO Connecting to MySQL with csm database..
+2020-04-08 18:55:01,486 INFO Creating cursor for communication with csm database..
+2020-04-08 18:55:01,486 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:55:01,487 INFO Creating cursor for communication with csm database..
+2020-04-08 18:55:01,488 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:55:01,489 ERROR Exception on /csm/public/complaint [POST]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 54, in complaint
+    insert_data_to_database(table_name="public_complaints", consumer_data=complaint_data_submitted)
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/insert_data.py", line 23, in insert_data_to_database
+    csm_cursor.execute(sql_command, consumer_data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 170, in execute
+    result = self._query(query)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/cursors.py", line 328, in _query
+    conn.query(q)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 517, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 732, in _read_query_result
+    result.read()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 1075, in read
+    first_packet = self.connection._read_packet()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/connections.py", line 684, in _read_packet
+    packet.check_error()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/protocol.py", line 220, in check_error
+    err.raise_mysql_exception(self._data)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/pymysql/err.py", line 109, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.InternalError: (1054, "Unknown column 'suggestion_type' in 'field list'")
+2020-04-08 18:55:50,127 DEBUG ===============================================================================================
+2020-04-08 18:55:50,127 DEBUG Creating session.
+2020-04-08 18:55:53,009 INFO Session created.
+2020-04-08 18:55:53,009 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:55:53,362 INFO Bucket already exists.
+2020-04-08 18:55:53,363 INFO Bucket ready for file operations
+2020-04-08 18:55:56,332 DEBUG Checking and uploading file...
+2020-04-08 18:55:56,332 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/ba5512c0-0d5b-4f41-81fd-c722184efc02.jpg to bucket with destination ba5512c0-0d5b-4f41-81fd-c722184efc02.jpg
+2020-04-08 18:55:59,904 INFO File uploaded to ba5512c0-0d5b-4f41-81fd-c722184efc02.jpg
+2020-04-08 18:55:59,905 INFO Connecting to MySQL..
+2020-04-08 18:55:59,905 INFO Database connection successful
+2020-04-08 18:55:59,905 INFO Creating cursor for communication..
+2020-04-08 18:55:59,906 INFO Connecting to MySQL with csm database..
+2020-04-08 18:55:59,906 INFO Creating cursor for communication with csm database..
+2020-04-08 18:55:59,906 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:55:59,907 INFO Creating cursor for communication with csm database..
+2020-04-08 18:55:59,907 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:56:06,307 DEBUG Checking and uploading file...
+2020-04-08 18:56:06,307 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/72b7ebab-b8e1-45e7-b399-457841387aec.jpg to bucket with destination 72b7ebab-b8e1-45e7-b399-457841387aec.jpg
+2020-04-08 18:56:10,399 INFO File uploaded to 72b7ebab-b8e1-45e7-b399-457841387aec.jpg
+2020-04-08 18:56:10,400 INFO Connecting to MySQL..
+2020-04-08 18:56:10,402 INFO Database connection successful
+2020-04-08 18:56:10,402 INFO Creating cursor for communication..
+2020-04-08 18:56:10,403 INFO Connecting to MySQL with csm database..
+2020-04-08 18:56:10,405 INFO Creating cursor for communication with csm database..
+2020-04-08 18:56:10,405 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:56:10,408 INFO Creating cursor for communication with csm database..
+2020-04-08 18:56:10,409 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:56:21,863 INFO Creating cursor for communication with csm database..
+2020-04-08 18:56:21,863 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:56:21,868 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 18:57:41,200 DEBUG ===============================================================================================
+2020-04-08 18:57:41,200 DEBUG Creating session.
+2020-04-08 18:57:43,812 INFO Session created.
+2020-04-08 18:57:43,813 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 18:57:44,193 INFO Bucket already exists.
+2020-04-08 18:57:44,194 INFO Bucket ready for file operations
+2020-04-08 18:57:47,589 INFO Creating cursor for communication with csm database..
+2020-04-08 18:57:47,590 INFO Cursor ready and awaiting commands.....
+2020-04-08 18:57:47,591 ERROR (1054, "Unknown column 'complaint_to' in 'where clause'")
+2020-04-08 19:02:34,771 DEBUG ===============================================================================================
+2020-04-08 19:02:34,771 DEBUG Creating session.
+2020-04-08 19:02:38,188 INFO Session created.
+2020-04-08 19:02:38,189 DEBUG Checking if bucket with name s3-preprocessor-dev exists.
+2020-04-08 19:02:39,226 INFO Bucket already exists.
+2020-04-08 19:02:39,227 INFO Bucket ready for file operations
+2020-04-08 19:18:48,773 DEBUG ===============================================================================================
+2020-04-08 19:18:48,774 DEBUG Creating session.
+2020-04-08 19:18:50,296 INFO Session created.
+2020-04-08 19:18:50,297 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 19:18:50,696 INFO Bucket with name civil-service does not exist. Creating bucket..
+2020-04-08 19:18:52,524 ERROR Client Error occurred, bucket name might not be unique.An error occurred (IllegalLocationConstraintException) when calling the CreateBucket operation: The ap-south-1 location constraint is incompatible for the region specific endpoint this request was sent to.
+2020-04-08 19:19:38,657 DEBUG ===============================================================================================
+2020-04-08 19:19:38,657 DEBUG Creating session.
+2020-04-08 19:19:40,275 INFO Session created.
+2020-04-08 19:19:40,276 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 19:19:40,669 INFO Bucket with name civil-service does not exist. Creating bucket..
+2020-04-08 19:19:42,917 INFO Bucket with name civil-service created.
+2020-04-08 19:20:08,701 DEBUG Checking and uploading file...
+2020-04-08 19:20:08,701 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/fed83b11-b75e-4a85-9a30-af1201cc2f6c.jpg to bucket with destination fed83b11-b75e-4a85-9a30-af1201cc2f6c.jpg
+2020-04-08 19:20:14,349 INFO File uploaded to fed83b11-b75e-4a85-9a30-af1201cc2f6c.jpg
+2020-04-08 19:20:14,349 INFO Connecting to MySQL..
+2020-04-08 19:20:14,350 INFO Database connection successful
+2020-04-08 19:20:14,350 INFO Creating cursor for communication..
+2020-04-08 19:20:14,351 INFO Connecting to MySQL with csm database..
+2020-04-08 19:20:14,351 INFO Creating cursor for communication with csm database..
+2020-04-08 19:20:14,351 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:20:14,352 INFO Creating cursor for communication with csm database..
+2020-04-08 19:20:14,352 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:20:17,991 DEBUG Checking and uploading file...
+2020-04-08 19:20:17,991 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/36cd409a-6e1b-4081-9288-52b9e27bb354.jpg to bucket with destination 36cd409a-6e1b-4081-9288-52b9e27bb354.jpg
+2020-04-08 19:20:21,528 INFO File uploaded to 36cd409a-6e1b-4081-9288-52b9e27bb354.jpg
+2020-04-08 19:20:21,528 INFO Connecting to MySQL..
+2020-04-08 19:20:21,529 INFO Database connection successful
+2020-04-08 19:20:21,529 INFO Creating cursor for communication..
+2020-04-08 19:20:21,530 INFO Connecting to MySQL with csm database..
+2020-04-08 19:20:21,531 INFO Creating cursor for communication with csm database..
+2020-04-08 19:20:21,531 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:20:21,532 INFO Creating cursor for communication with csm database..
+2020-04-08 19:20:21,532 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:20:25,661 INFO Creating cursor for communication with csm database..
+2020-04-08 19:20:25,661 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:30:07,157 INFO Creating cursor for communication with csm database..
+2020-04-08 19:30:07,157 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:33:44,192 INFO Creating cursor for communication with csm database..
+2020-04-08 19:33:44,192 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:33:55,942 INFO Creating cursor for communication with csm database..
+2020-04-08 19:33:55,943 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:35:29,086 INFO Creating cursor for communication with csm database..
+2020-04-08 19:35:29,086 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:43:11,249 DEBUG ===============================================================================================
+2020-04-08 19:43:11,249 DEBUG Creating session.
+2020-04-08 19:43:13,728 INFO Session created.
+2020-04-08 19:43:13,728 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 19:43:14,478 INFO Bucket already exists.
+2020-04-08 19:43:14,479 INFO Bucket ready for file operations
+2020-04-08 19:44:11,324 DEBUG Checking and uploading file...
+2020-04-08 19:44:11,324 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/923418e4-3520-4082-92a2-3c5a37598c3c.jpg to bucket with destination 923418e4-3520-4082-92a2-3c5a37598c3c.jpg
+2020-04-08 19:44:15,396 INFO File uploaded to 923418e4-3520-4082-92a2-3c5a37598c3c.jpg
+2020-04-08 19:44:15,397 INFO Connecting to MySQL..
+2020-04-08 19:44:15,402 INFO Database connection successful
+2020-04-08 19:44:15,402 INFO Creating cursor for communication..
+2020-04-08 19:44:15,405 INFO Connecting to MySQL with csm database..
+2020-04-08 19:44:15,407 INFO Creating cursor for communication with csm database..
+2020-04-08 19:44:15,407 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:44:15,410 INFO Creating cursor for communication with csm database..
+2020-04-08 19:44:15,411 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:44:19,833 INFO Creating cursor for communication with csm database..
+2020-04-08 19:44:19,833 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:44:40,586 INFO Creating cursor for communication with csm database..
+2020-04-08 19:44:40,587 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:45:01,355 INFO Creating cursor for communication with csm database..
+2020-04-08 19:45:01,355 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:45:33,959 INFO Creating cursor for communication with csm database..
+2020-04-08 19:45:33,959 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:45:57,613 INFO Creating cursor for communication with csm database..
+2020-04-08 19:45:57,614 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:46:51,824 INFO Creating cursor for communication with csm database..
+2020-04-08 19:46:51,824 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:47:24,093 INFO Creating cursor for communication with csm database..
+2020-04-08 19:47:24,093 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:56:23,412 INFO Creating cursor for communication with csm database..
+2020-04-08 19:56:23,412 INFO Cursor ready and awaiting commands.....
+2020-04-08 19:58:26,790 INFO Creating cursor for communication with csm database..
+2020-04-08 19:58:26,790 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:00:13,382 INFO Creating cursor for communication with csm database..
+2020-04-08 20:00:13,382 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:05:39,526 INFO Creating cursor for communication with csm database..
+2020-04-08 20:05:39,526 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:07:24,672 INFO Creating cursor for communication with csm database..
+2020-04-08 20:07:24,673 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:08:30,955 INFO Creating cursor for communication with csm database..
+2020-04-08 20:08:30,955 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:10:05,456 INFO Creating cursor for communication with csm database..
+2020-04-08 20:10:05,456 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:10:49,676 INFO Creating cursor for communication with csm database..
+2020-04-08 20:10:49,676 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:11:17,879 INFO Creating cursor for communication with csm database..
+2020-04-08 20:11:17,879 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:16:26,156 DEBUG ===============================================================================================
+2020-04-08 20:16:26,157 DEBUG Creating session.
+2020-04-08 20:16:27,729 INFO Session created.
+2020-04-08 20:16:27,729 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:16:28,421 INFO Bucket already exists.
+2020-04-08 20:16:28,421 INFO Bucket ready for file operations
+2020-04-08 20:17:09,254 INFO Creating cursor for communication with csm database..
+2020-04-08 20:17:09,254 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:17:22,890 INFO Creating cursor for communication with csm database..
+2020-04-08 20:17:22,890 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:17:22,892 ERROR Exception on /csm/complaint_details [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 125, in get_complaint_details
+  File "/home/userd678/PycharmProjects/csm/service/MySQL_database/view_data.py", line 26, in get_data
+    detailed_query_data = [list(query_data) for query_data in csm_cursor][0]
+IndexError: list index out of range
+2020-04-08 20:17:40,208 DEBUG ===============================================================================================
+2020-04-08 20:17:40,208 DEBUG Creating session.
+2020-04-08 20:17:41,730 INFO Session created.
+2020-04-08 20:17:41,730 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:17:42,066 INFO Bucket already exists.
+2020-04-08 20:17:42,066 INFO Bucket ready for file operations
+2020-04-08 20:19:16,776 DEBUG ===============================================================================================
+2020-04-08 20:19:16,776 DEBUG Creating session.
+2020-04-08 20:19:18,278 INFO Session created.
+2020-04-08 20:19:18,279 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:19:18,629 INFO Bucket already exists.
+2020-04-08 20:19:18,629 INFO Bucket ready for file operations
+2020-04-08 20:20:40,724 DEBUG ===============================================================================================
+2020-04-08 20:20:40,725 DEBUG Creating session.
+2020-04-08 20:20:42,225 INFO Session created.
+2020-04-08 20:20:42,225 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:20:42,505 INFO Bucket already exists.
+2020-04-08 20:20:42,505 INFO Bucket ready for file operations
+2020-04-08 20:26:48,375 DEBUG ===============================================================================================
+2020-04-08 20:26:48,375 DEBUG Creating session.
+2020-04-08 20:26:49,775 INFO Session created.
+2020-04-08 20:26:49,775 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:26:50,131 INFO Bucket already exists.
+2020-04-08 20:26:50,131 INFO Bucket ready for file operations
+2020-04-08 20:26:55,430 INFO Creating cursor for communication with csm database..
+2020-04-08 20:26:55,430 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:26:59,673 ERROR Exception on /csm/complaint_details [GET]
+Traceback (most recent call last):
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/home/userd678/PycharmProjects/csm/app.py", line 124, in get_complaint_details
+    return jsonify(get_data(query_id=request.form["query_id"], query_type=request.form["query_type"])), 200
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 370, in jsonify
+    dumps(data, indent=indent, separators=separators) + "\n",
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 211, in dumps
+    rv = _json.dumps(obj, **kwargs)
+  File "/usr/lib/python3.6/json/__init__.py", line 238, in dumps
+    **kw).encode(obj)
+  File "/usr/lib/python3.6/json/encoder.py", line 199, in encode
+    chunks = self.iterencode(o, _one_shot=True)
+  File "/usr/lib/python3.6/json/encoder.py", line 257, in iterencode
+    return _iterencode(o, 0)
+  File "/home/userd678/PycharmProjects/csm/venv/lib/python3.6/site-packages/flask/json/__init__.py", line 100, in default
+    return _json.JSONEncoder.default(self, o)
+  File "/usr/lib/python3.6/json/encoder.py", line 180, in default
+    o.__class__.__name__)
+TypeError: Object of type 'bytes' is not JSON serializable
+2020-04-08 20:27:24,100 DEBUG ===============================================================================================
+2020-04-08 20:27:24,100 DEBUG Creating session.
+2020-04-08 20:27:29,640 INFO Session created.
+2020-04-08 20:27:29,640 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:27:29,965 INFO Bucket already exists.
+2020-04-08 20:27:29,965 INFO Bucket ready for file operations
+2020-04-08 20:27:32,671 INFO Creating cursor for communication with csm database..
+2020-04-08 20:27:32,671 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:32:32,315 DEBUG ===============================================================================================
+2020-04-08 20:32:32,315 DEBUG Creating session.
+2020-04-08 20:32:34,610 INFO Session created.
+2020-04-08 20:32:34,610 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 20:32:34,985 INFO Bucket already exists.
+2020-04-08 20:32:34,985 INFO Bucket ready for file operations
+2020-04-08 20:34:34,495 DEBUG Checking and uploading file...
+2020-04-08 20:34:34,495 DEBUG Uploading from /home/userd678/PycharmProjects/csm/uploaded_documents/1adaeccc-5798-4858-855b-bad72219d184.jpg to bucket with destination 1adaeccc-5798-4858-855b-bad72219d184.jpg
+2020-04-08 20:34:36,907 INFO File uploaded to 1adaeccc-5798-4858-855b-bad72219d184.jpg
+2020-04-08 20:34:36,908 INFO Connecting to MySQL..
+2020-04-08 20:34:36,912 INFO Database connection successful
+2020-04-08 20:34:36,912 INFO Creating cursor for communication..
+2020-04-08 20:34:36,916 INFO Connecting to MySQL with csm database..
+2020-04-08 20:34:36,921 INFO Creating cursor for communication with csm database..
+2020-04-08 20:34:36,921 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:34:36,926 INFO Creating cursor for communication with csm database..
+2020-04-08 20:34:36,927 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:35:19,186 INFO Creating cursor for communication with csm database..
+2020-04-08 20:35:19,186 INFO Cursor ready and awaiting commands.....
+2020-04-08 20:36:20,693 INFO Creating cursor for communication with csm database..
+2020-04-08 20:36:20,693 INFO Cursor ready and awaiting commands.....

@@ -1,0 +1,5 @@
+Flask==1.1.2
+boto3==1.12.38
+botocore==1.15.38
+PyMySQL==0.9.3
+wget==3.2
