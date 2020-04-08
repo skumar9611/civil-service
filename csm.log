@@ -2037,3 +2037,35 @@ TypeError: Object of type 'bytes' is not JSON serializable
 2020-04-08 20:35:19,186 INFO Cursor ready and awaiting commands.....
 2020-04-08 20:36:20,693 INFO Creating cursor for communication with csm database..
 2020-04-08 20:36:20,693 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:07:26,623 DEBUG ===============================================================================================
+2020-04-08 21:07:26,623 DEBUG Creating session.
+2020-04-08 21:07:28,515 INFO Session created.
+2020-04-08 21:07:28,515 DEBUG Checking if bucket with name civil-service exists.
+2020-04-08 21:07:28,840 INFO Bucket already exists.
+2020-04-08 21:07:28,841 INFO Bucket ready for file operations
+2020-04-08 21:07:35,989 DEBUG Checking and uploading file...
+2020-04-08 21:07:35,989 DEBUG Uploading from /home/userd678/Downloads/civil-service/uploaded_documents/83274fea-7035-44f0-8ac8-226b61429e9d.jpg to bucket with destination 83274fea-7035-44f0-8ac8-226b61429e9d.jpg
+2020-04-08 21:07:39,270 INFO File uploaded to 83274fea-7035-44f0-8ac8-226b61429e9d.jpg
+2020-04-08 21:07:39,270 INFO Connecting to MySQL..
+2020-04-08 21:07:39,271 INFO Database connection successful
+2020-04-08 21:07:39,271 INFO Creating cursor for communication..
+2020-04-08 21:07:39,271 INFO Connecting to MySQL with csm database..
+2020-04-08 21:07:39,272 INFO Creating cursor for communication with csm database..
+2020-04-08 21:07:39,272 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:07:39,273 INFO Creating cursor for communication with csm database..
+2020-04-08 21:07:39,274 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:07:42,425 DEBUG Checking and uploading file...
+2020-04-08 21:07:42,425 DEBUG Uploading from /home/userd678/Downloads/civil-service/uploaded_documents/6ef85d69-2ede-4a91-a52f-68384bfd2546.jpg to bucket with destination 6ef85d69-2ede-4a91-a52f-68384bfd2546.jpg
+2020-04-08 21:07:45,883 INFO File uploaded to 6ef85d69-2ede-4a91-a52f-68384bfd2546.jpg
+2020-04-08 21:07:45,883 INFO Connecting to MySQL..
+2020-04-08 21:07:45,884 INFO Database connection successful
+2020-04-08 21:07:45,884 INFO Creating cursor for communication..
+2020-04-08 21:07:45,885 INFO Connecting to MySQL with csm database..
+2020-04-08 21:07:45,886 INFO Creating cursor for communication with csm database..
+2020-04-08 21:07:45,887 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:07:45,888 INFO Creating cursor for communication with csm database..
+2020-04-08 21:07:45,888 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:07:55,015 INFO Creating cursor for communication with csm database..
+2020-04-08 21:07:55,016 INFO Cursor ready and awaiting commands.....
+2020-04-08 21:08:00,843 INFO Creating cursor for communication with csm database..
+2020-04-08 21:08:00,843 INFO Cursor ready and awaiting commands.....

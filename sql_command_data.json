@@ -1,5 +1,0 @@
-{
-  "public_complaints": "(name, contact, age, email, occupation, current_location, complaint_type, complaint_to, complaint_subject, complaint_details, date, s3_file_link, complaint_id)",
-  "public_suggestions": "(name, contact, age, email, occupation, current_location, suggestion_type, suggestion_to, suggestion_subject, suggestion_details, date, s3_file_link, suggestion_id, submission_type)",
-  "officials_data": "(username, password, designation)"
-}

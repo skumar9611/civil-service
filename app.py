@@ -7,10 +7,10 @@ from flask import Flask, request, jsonify
 
 from aws_client import aws_client
 from config import config
-from service.MySQL_database.insert_data import insert_data_to_database
-from service.MySQL_database.my_sql_client import database_connect
-from service.MySQL_database.verify_user import check_user_data
-from service.MySQL_database.view_data import get_data
+from service.my_sql_database.insert_data import insert_data_to_database
+from service.my_sql_database.my_sql_client import database_connect
+from service.my_sql_database.verify_user import check_user_data
+from service.my_sql_database.view_data import get_data
 
 app = Flask(__name__)
 app.config["JSON_SORT_KEYS"] = False
